@@ -1,1 +1,3 @@
 # phpShell
+
+Only for CTFs
